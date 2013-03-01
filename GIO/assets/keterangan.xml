@@ -6,11 +6,13 @@
 	<topy>140</topy>
     <botx>39</botx>
      <boty>190</boty>
-     <!--      ldpi=0 -->
-<!--      mdpi=1 -->
-<!--      hdpi=2 -->
-<!--      xhdpi=3 -->
-<!--      xxhdpi=4 -->
+<!-- DEVICE DPI
+		ldpi=0
+		mdpi=1
+		hdpi=2
+		xhdpi=3
+		xxhdpi=4 
+-->
      <deviceDpi>1</deviceDpi>
 </DCSMS-Hishoot>
 
